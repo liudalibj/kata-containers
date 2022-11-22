@@ -1508,7 +1508,7 @@ dependencies = [
 [[package]]
 name = "image-rs"
 version = "0.1.0"
-source = "git+https://github.com/confidential-containers/image-rs?rev=00cd5661d8a8c9fb11d96d3f46d3ef14009c6c5f#00cd5661d8a8c9fb11d96d3f46d3ef14009c6c5f"
+source = "git+https://github.com/liudalibj/image-rs?rev=4f7c73fcdb637d613e3cc002864b2ff7aeed4440#4f7c73fcdb637d613e3cc002864b2ff7aeed4440"
 dependencies = [
  "anyhow",
  "flate2",
@@ -3367,7 +3367,7 @@ dependencies = [
 [[package]]
 name = "signature"
 version = "0.1.0"
-source = "git+https://github.com/confidential-containers/image-rs?rev=00cd5661d8a8c9fb11d96d3f46d3ef14009c6c5f#00cd5661d8a8c9fb11d96d3f46d3ef14009c6c5f"
+source = "git+https://github.com/liudalibj/image-rs?rev=4f7c73fcdb637d613e3cc002864b2ff7aeed4440#4f7c73fcdb637d613e3cc002864b2ff7aeed4440"
 dependencies = [
  "anyhow",
  "base64",
